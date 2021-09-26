@@ -1,4 +1,4 @@
-Open [https://quizzical-leakey-77f62a.netlify.app/](https://quizzical-leakey-77f62a.netlify.app/) to view it in the browser.
+Open [Emergency Rescue](https://quizzical-leakey-77f62a.netlify.app/) to view it in the browser.
 
 <ol>
 <li>Best Army Officer</li>
