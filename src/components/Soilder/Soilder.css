@@ -1,0 +1,11 @@
+.soilder {
+  background-color: cornflowerblue;
+  border: 20px solid black;
+  border-radius: 20px;
+  justify-content: center;
+}
+
+.soilder img {
+  height: 400px;
+  width: 300px;
+}

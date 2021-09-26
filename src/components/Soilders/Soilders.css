@@ -1,0 +1,14 @@
+.soilders-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  border: 5px solid rgb(14, 233, 222);
+}
+
+.soilder-container {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 50px;
+}
+.selected-soilder-container {
+}
