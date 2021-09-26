@@ -10,14 +10,14 @@ const Soilder = (props) => {
     return (
         <div className="soilder">
             <img src={img} alt="" />
-            <h4>Name : {name}</h4>
-            <h4>Age : {age}</h4>
-            <h4>Rank : {rank}</h4>
-            <h4>Specality : {specility}</h4>
-            <h4>Salary : {salary}</h4>
-            <h4>Totall Operation : {totallOperation}</h4>
-            <h4>Operation Point : {operationPoint}</h4>
-            <h4>Current Location : {currentLocation}</h4>
+            <h3>Name : {name}</h3>
+            <h3>Age : {age}</h3>
+            <h3>Rank : {rank}</h3>
+            <h3>Specality : {specility}</h3>
+            <h3>Salary : {salary}</h3>
+            <h3>Totall Operation : {totallOperation}</h3>
+            <h3>Operation Point : {operationPoint}</h3>
+            <h3>Current Location : {currentLocation}</h3>
             
             <button 
             onClick={() => props.handelSelectedMember(props.soilder)}
