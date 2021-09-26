@@ -1,5 +1,7 @@
 .headerSection {
-  color: blueviolet;
-  background-color: cornflowerblue;
+  color: rgb(27, 4, 4);
+  background-color: rgb(194, 234, 247);
   font-size: xx-large;
+  text-align: center;
+  padding: 20px;
 }

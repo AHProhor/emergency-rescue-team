@@ -1,7 +1,7 @@
 .soilders-container {
   display: grid;
   grid-template-columns: 3fr 1fr;
-  border: 5px solid rgb(14, 233, 222);
+  margin-top: 30px;
 }
 
 .soilder-container {
@@ -11,4 +11,10 @@
   grid-gap: 50px;
 }
 .selected-soilder-container {
+  background-color: rgb(194, 234, 247);
+  border-radius: 20px;
+  margin-top: 20px;
+  height: 600px;
+  width: 450px;
+  text-align: center;
 }
